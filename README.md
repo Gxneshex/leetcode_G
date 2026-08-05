@@ -56,3 +56,15 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 ## 🔴 Hard (2 Problems)
 - [0004 - Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays)
 - [0042 - Trapping Rain Water](./0042-trapping-rain-water)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gxneshex/leetcode_G/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gxneshex/leetcode_G/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->
