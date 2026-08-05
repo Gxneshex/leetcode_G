@@ -1,1 +1,18 @@
+name: Sync Leetcode Past Submissions
+
+on:
+  workflow_dispatch: # This creates the "Run workflow" button
+  schedule:
+    - cron: "0 8 * * 6" # Automatically runs once a week
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync
+        uses: joshcai/leetcode-sync@v1.7
+        with:
+          github-token: ${{ github.token }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
 
