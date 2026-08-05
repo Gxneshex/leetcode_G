@@ -6,10 +6,10 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 
 | Difficulty | Problems Solved |
 | :---       | :---:           |
-| 🟢 Easy    | 22             |
+| 🟢 Easy    | 24             |
 | 🟡 Medium  | 14             |
 | 🔴 Hard    | 2              |
-| **Total**  | **38**          |
+| **Total**  | **40**          |
 
 ---
 
@@ -18,6 +18,7 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 - [0020 - Valid Parentheses](./0020-valid-parentheses)
 - [0094 - Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal)
 - [0100 - Same Tree](./0100-same-tree)
+- [121. Best Time to Buy and Sell Stock](./0121-Best-Time-to-Buy-and-Sell-Stock)
 - [0141 - Linked List Cycle](./0141-linked-list-cycle)
 - [0144 - Binary Tree Preorder Traversal](./0144-binary-tree-preorder-traversal)
 - [0145 - Binary Tree Postorder Traversal](./0145-binary-tree-postorder-traversal)
