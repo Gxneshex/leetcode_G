@@ -6,10 +6,10 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 
 | Difficulty | Problems Solved |
 | :---       | :---:           |
-| 🟢 Easy    | 24             |
+| 🟢 Easy    | 26             |
 | 🟡 Medium  | 14             |
 | 🔴 Hard    | 2              |
-| **Total**  | **40**          |
+| **Total**  | **42**          |
 
 ---
 
@@ -19,6 +19,7 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 - [0094 - Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal)
 - [0100 - Same Tree](./0100-same-tree)
 - [121. Best Time to Buy and Sell Stock](./0121-Best-Time-to-Buy-and-Sell-Stock)
+- [0136 - Single Number](./0136-single-number)
 - [0141 - Linked List Cycle](./0141-linked-list-cycle)
 - [0144 - Binary Tree Preorder Traversal](./0144-binary-tree-preorder-traversal)
 - [0145 - Binary Tree Postorder Traversal](./0145-binary-tree-postorder-traversal)
@@ -27,6 +28,7 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 - [0258 - Add Digits](./0258-add-digits)
 - [0268 - Missing Number](./0268-missing-number)
 - [0283 - Move Zeroes](./0283-move-zeroes)
+- [0326 - Power of Three](./0326-power-of-three)
 - [0509 - Fibonacci Number](./0509-fibonacci-number)
 - [0704 - Binary Search](./0704-binary-search)
 - [0867 - Transpose Matrix](./0867-transpose-matrix)
