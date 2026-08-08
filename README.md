@@ -75,4 +75,12 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gxneshex/leetcode_G/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Gxneshex/leetcode_G/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Gxneshex/leetcode_G/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
