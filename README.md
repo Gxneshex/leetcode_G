@@ -6,10 +6,10 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 
 | Difficulty | Problems Solved |
 | :---       | :---:           |
-| 🟢 Easy    | 26             |
-| 🟡 Medium  | 14             |
+| 🟢 Easy    | 29             |
+| 🟡 Medium  | 15             |
 | 🔴 Hard    | 2              |
-| **Total**  | **42**          |
+| **Total**  | **46**          |
 
 ---
 
