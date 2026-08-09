@@ -82,6 +82,7 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Gxneshex/leetcode_G/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Gxneshex/leetcode_G/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gxneshex/leetcode_G/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gxneshex/leetcode_G/tree/master/0342-power-of-four) |
