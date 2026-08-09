@@ -67,10 +67,12 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gxneshex/leetcode_G/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Gxneshex/leetcode_G/tree/master/0136-single-number) |
+| [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gxneshex/leetcode_G/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 | [0231-power-of-two](https://github.com/Gxneshex/leetcode_G/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gxneshex/leetcode_G/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gxneshex/leetcode_G/tree/master/0342-power-of-four) |
+| [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -94,4 +97,20 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gxneshex/leetcode_G/tree/master/0021-merge-two-sorted-lists) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
