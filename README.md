@@ -74,6 +74,7 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 | [0014-longest-common-prefix](https://github.com/Gxneshex/leetcode_G/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gxneshex/leetcode_G/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Gxneshex/leetcode_G/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Gxneshex/leetcode_G/tree/master/0287-find-the-duplicate-number) |
 | [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 | ------- |
 | [0136-single-number](https://github.com/Gxneshex/leetcode_G/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Gxneshex/leetcode_G/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Gxneshex/leetcode_G/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Gxneshex/leetcode_G/tree/master/0342-power-of-four) |
 ## Math
 |  |
@@ -129,4 +131,20 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gxneshex/leetcode_G/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gxneshex/leetcode_G/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gxneshex/leetcode_G/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gxneshex/leetcode_G/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gxneshex/leetcode_G/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
