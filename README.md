@@ -71,6 +71,7 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gxneshex/leetcode_G/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gxneshex/leetcode_G/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Gxneshex/leetcode_G/tree/master/0136-single-number) |
 | [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
@@ -120,4 +121,12 @@ A comprehensive tracking profile of my problem-solving journey on LeetCode.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Gxneshex/leetcode_G/tree/master/1140-stone-game-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gxneshex/leetcode_G/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gxneshex/leetcode_G/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
